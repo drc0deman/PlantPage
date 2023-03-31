@@ -1,0 +1,84 @@
+[33mcommit 4ff79ba40c5af81a76b66ffffb02cd113807026c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 14:33:47 2022 -0400
+
+    Lab message: 1 Created phone css
+
+[33mcommit b1cd3fac71747ab02cbd957ddf6d47f684a03863[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 14:27:48 2022 -0400
+
+    Lab message: 1 Created tablet css
+    :
+
+[33mcommit 9c9cf87d90a0c9cd2b8ff5ade2a0e05bce742db7[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 14:24:52 2022 -0400
+
+    Lab message: 1 Created css
+
+[33mcommit 13bdefe1e62e4c841cb54afa0f6a1a77e72e968c[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 12:38:56 2022 -0400
+
+    Added files to nav.php
+
+[33mcommit 18abbb00dc5a075f220d7fb7edbd7d5a4d85208d[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 10:10:08 2022 -0400
+
+    Lab 1 Created DB connection
+
+[33mcommit 61d893b962cc7508e1a369bcdcdc9f13a61ef979[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 09:56:47 2022 -0400
+
+    Lab 1 Created form.php
+
+[33mcommit 11adf26f77d6aa5a4738731be6634d43b015e8ae[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 09:52:41 2022 -0400
+
+    Lab 1 Created contact.php
+
+[33mcommit 69d5e35df01d2311f168a124396944f123211fbc[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 09:51:50 2022 -0400
+
+    Lab 1 Created about.php
+
+[33mcommit 40bf4fb340b96f5ea5f7b696507c838fda35fcd4[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 09:49:57 2022 -0400
+
+    Lab 1 Created index.php
+
+[33mcommit 1bd11b66fccc08fdd80a5f106b824de3f3902405[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 09:46:52 2022 -0400
+
+    Lab 1 Created footer.php
+
+[33mcommit 56cf35fb60612bf14fb96592ec729c42109982c8[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 09:41:44 2022 -0400
+
+    Lab 1 Created nav.php
+
+[33mcommit d379f7ad6ee5eae594fbc5fc0fd171c395c9301c[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Wed Sep 7 08:49:26 2022 -0400
+
+    Lab 1 Created header.php
+
+[33mcommit 6689322a9d96e3b346aa067cc8e8b47c53ab98ac[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Mon Sep 5 21:25:09 2022 -0400
+
+    Lab 1 Created top.php
+
+[33mcommit 9374da53c79b943cb57fb9d6e64e9e86253c2725[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: drc0deman <owelford@uvm.edu>
+Date:   Mon Sep 5 17:56:38 2022 -0400
+
+    Lab 1 Initial Setup
